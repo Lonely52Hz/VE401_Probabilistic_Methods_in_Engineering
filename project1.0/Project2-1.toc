@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {1}Abstract}{2}% 
+\contentsline {section}{\numberline {2}Introduction}{4}% 
+\contentsline {subsection}{\numberline {2.1}Background}{4}% 
+\contentsline {subsection}{\numberline {2.2}Objectives}{4}% 
+\contentsline {section}{\numberline {3}Data analysis}{4}% 
+\contentsline {subsection}{\numberline {3.1}Data source}{4}% 
+\contentsline {subsection}{\numberline {3.2}Overview of the data}{4}% 
+\contentsline {section}{\numberline {4}Goodness-of-fit test for Poisson distribution}{5}% 
+\contentsline {section}{\numberline {5}Dependence on weekday}{6}% 
+\contentsline {section}{\numberline {6}Confidence interval for the parameter k of the Poisson distribution}{7}% 
+\contentsline {section}{\numberline {7}Goodness-of-fit test for data for 2020}{8}% 
+\contentsline {section}{\numberline {8}Prediction interval for 2020}{9}% 
+\contentsline {section}{\numberline {9}The influence of the outbreak of Coronavirus}{11}% 
+\contentsline {section}{\numberline {10}Conclusion}{12}% 
+\contentsline {section}{\numberline {11}Reference}{12}% 
+\contentsline {section}{\numberline {12}Appendix}{13}% 
+\contentsline {subsection}{\numberline {12.1}Code for 3.2 Overview of the data}{13}% 
+\contentsline {subsection}{\numberline {12.2}Code for 4 Goodness-of-fit test for Poisson distribution}{13}% 
+\contentsline {subsection}{\numberline {12.3}Code for 5 Dependence on weekday}{13}% 
+\contentsline {subsection}{\numberline {12.4}Code for 7 Goodness-of-fit test for data for 2020}{13}% 
+\contentsline {subsection}{\numberline {12.5}Code for 8 Confidence interval for the parameter k of the Poisson distribution}{13}% 
+\contentsfinish 

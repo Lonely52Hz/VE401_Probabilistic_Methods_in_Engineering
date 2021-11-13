@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Abstract}{}% 1
+\BOOKMARK [1][-]{section.2}{Introduction}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Background}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Objectives}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Functions that can be used to obtain pseudo-random numbers}{}% 5
+\BOOKMARK [1][-]{section.4}{A feasible pseudo-random number generator \(PRNG\) algorithm}{}% 6
+\BOOKMARK [1][-]{section.5}{Ways of randomness test}{}% 7
+\BOOKMARK [1][-]{section.6}{A test for randomness of the PRNG}{}% 8
+\BOOKMARK [1][-]{section.7}{Flaw in the PRNG}{}% 9
+\BOOKMARK [1][-]{section.8}{Conclusion}{}% 10
+\BOOKMARK [1][-]{section.9}{References}{}% 11
+\BOOKMARK [1][-]{section.10}{Appendix}{}% 12

@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}Abstract}{1}% 
+\contentsline {section}{\numberline {2}Introduction}{3}% 
+\contentsline {subsection}{\numberline {2.1}Background}{3}% 
+\contentsline {subsection}{\numberline {2.2}Objectives}{3}% 
+\contentsline {section}{\numberline {3}Ways of obtaining pseudorandom numbers}{3}% 
+\contentsline {subsection}{\numberline {3.1}Linear congruential method}{3}% 
+\contentsline {subsection}{\numberline {3.2}Nonlinear congruential method}{3}% 
+\contentsline {subsection}{\numberline {3.3}Additive congruential method}{4}% 
+\contentsline {section}{\numberline {4}A feasible PRNG algorithm}{4}% 
+\contentsline {subsection}{\numberline {4.1}Designing process}{4}% 
+\contentsline {subsection}{\numberline {4.2}Demonstration and self-examination}{4}% 
+\contentsline {subsection}{\numberline {4.3}Modification}{6}% 
+\contentsline {section}{\numberline {5}Ways of randomness test}{6}% 
+\contentsline {section}{\numberline {6}A test for randomness of the PRNG}{6}% 
+\contentsline {section}{\numberline {7}Flaw in the PRNG}{6}% 
+\contentsline {section}{\numberline {8}Conclusion}{6}% 
+\contentsline {section}{\numberline {9}References}{6}% 
+\contentsline {section}{\numberline {10}Appendix}{7}% 
+\contentsline {subsection}{\numberline {10.1}Code for 4.1}{7}% 
+\contentsline {subsection}{\numberline {10.2}Code for 4.3}{7}% 
+\contentsfinish 

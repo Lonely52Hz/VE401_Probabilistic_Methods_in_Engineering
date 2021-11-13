@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}Abstract}{2}% 
+\contentsline {section}{\numberline {2}Introduction}{4}% 
+\contentsline {subsection}{\numberline {2.1}Background}{4}% 
+\contentsline {subsection}{\numberline {2.2}Objectives}{4}% 
+\contentsline {section}{\numberline {3}Data analysis}{4}% 
+\contentsline {subsection}{\numberline {3.1}Data source}{4}% 
+\contentsline {subsection}{\numberline {3.2}Overview of the data}{4}% 
+\contentsline {section}{\numberline {4}Goodness-of-fit test for Poisson distribution}{5}% 
+\contentsline {section}{\numberline {5}Dependence on weekday}{6}% 
+\contentsline {section}{\numberline {6}Reference}{7}% 
+\contentsline {section}{\numberline {7}Appendix}{8}% 
+\contentsline {subsection}{\numberline {7.1}Code for 3.2 Overview of the data}{8}% 
+\contentsline {subsection}{\numberline {7.2}Code for 4 Goodness-of-fit test for Poisson distribution}{8}% 
+\contentsline {subsection}{\numberline {7.3}Code for 5 Dependence on weekday}{8}% 
+\contentsfinish 
